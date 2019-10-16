@@ -1,0 +1,24 @@
+.transactionhistory {
+  border: 1px solid black;
+  width: 600px;
+  margin: 0 auto;
+  background-color: cadetblue;
+  color: cornsilk;
+  border: none;
+}
+
+.transactionhead {
+  border: 1px solid black;
+  margin: 0 auto;
+  border: none;
+}
+
+.transactionorders {
+  background-color: rgb(197, 197, 199);
+  color: rgb(114, 114, 114);
+  text-align: center;
+  border: none;
+  text-transform: uppercase;
+  padding: 5px 0px;
+  /* margin: 0 auto; */
+}

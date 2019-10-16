@@ -1,0 +1,42 @@
+/* .container {
+  background-color: rgb(230, 224, 224);
+} */
+
+.section {
+  width: 400px;
+  background-color: rgb(230, 224, 224);
+  margin: 0 auto;
+  text-align: center;
+  padding: 20px;
+}
+
+.title {
+  font-size: 20px;
+  text-transform: uppercase;
+  color: grey;
+  font-weight: bold;
+}
+
+.statList {
+  margin: 0 auto;
+  display: flex;
+  color: grey;
+}
+
+.item {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.label {
+  font-size: 18px;
+  padding: 15px;
+  color: #000;
+}
+
+.percentage {
+  font-size: 24px;
+  padding: 10px;
+  color: #000;
+}
